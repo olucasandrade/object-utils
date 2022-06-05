@@ -1,5 +1,5 @@
 /**
- * Verify if two objects is equal
+ * Verify if two objects are equal
  * @param  {Object} object1 Object to be compared
  * @param  {Object} object2 Object to be compared
  * @return {Boolean}
