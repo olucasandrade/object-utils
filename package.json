@@ -1,0 +1,25 @@
+{
+  "name": "object-utils",
+  "version": "1.0.0",
+  "description": "A simple object utils collection!",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucas-andrad/object-utils.git"
+  },
+  "author": "Lucas Andrade",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lucas-andrad/object-utils/issues"
+  },
+  "homepage": "https://github.com/lucas-andrad/object-utils#readme",
+  "dependencies": {
+    "jest": "^28.1.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.17.0"
+  }
+}
