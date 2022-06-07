@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lucas-andrad/object-utils.git"
+    "url": "git+https://github.com/olucasandrade/object-utils.git"
   },
   "author": "Lucas Andrade",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/lucas-andrad/object-utils/issues"
+    "url": "https://github.com/olucasandrade/object-utils/issues"
   },
-  "homepage": "https://github.com/lucas-andrad/object-utils#readme",
+  "homepage": "https://github.com/olucasandrade/object-utils#readme",
   "dependencies": {
     "jest": "^28.1.0"
   },
