@@ -1,6 +1,6 @@
 {
-  "name": "object-utils",
-  "version": "1.0.1",
+  "name": "@olucasandrade/object-utils",
+  "version": "1.0.0",
   "description": "A simple object utils collection!",
   "main": "src/index.js",
   "scripts": {
@@ -21,5 +21,19 @@
   },
   "devDependencies": {
     "eslint": "^8.17.0"
-  }
+  },
+  "keywords": [
+    "object",
+    "function",
+    "convert",
+    "copy",
+    "filter",
+    "empty",
+    "equal",
+    "map",
+    "merge",
+    "remove",
+    "add",
+    "count"
+  ]
 }
