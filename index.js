@@ -14,7 +14,7 @@ const merge = require('./utils/merge.js');
 const removeValue = require('./utils/map.js');
 const swapPairs = require('./utils/swapPairs.js');
 
-module.exports - {
+module.exports = {
     addValue,
     convert,
     copy,
