@@ -1,8 +1,11 @@
 {
   "name": "@olucasandrade/object-utils",
-  "version": "1.0.2",
+  "version": "1.0.0",
   "description": "A simple object utils collection!",
-  "main": "src/index.js",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
   "scripts": {
     "test": "jest"
   },
@@ -10,30 +13,26 @@
     "type": "git",
     "url": "git+https://github.com/olucasandrade/object-utils.git"
   },
+  "keywords": [
+    "object",
+    "array",
+    "count",
+    "convert",
+    "add",
+    "remove",
+    "class",
+    "filter",
+    "map",
+    "copy"
+  ],
   "author": "Lucas Andrade",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/olucasandrade/object-utils/issues"
   },
   "homepage": "https://github.com/olucasandrade/object-utils#readme",
-  "dependencies": {
-    "jest": "^28.1.0"
-  },
   "devDependencies": {
-    "eslint": "^8.17.0"
-  },
-  "keywords": [
-    "object",
-    "function",
-    "convert",
-    "copy",
-    "filter",
-    "empty",
-    "equal",
-    "map",
-    "merge",
-    "remove",
-    "add",
-    "count"
-  ]
+    "eslint": "^8.17.0",
+    "jest": "^28.1.1"
+  }
 }
